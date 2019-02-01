@@ -1,0 +1,26 @@
+{
+  "name": "awsexpress1",
+  "version": "1.0.0",
+  "description": "demo of loading express onto aws EC2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johntango/awsexpress1.git"
+  },
+  "keywords": [
+    "aws",
+    "website"
+  ],
+  "author": "john <jrw@mit.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johntango/awsexpress1/issues"
+  },
+  "homepage": "https://github.com/johntango/awsexpress1#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
